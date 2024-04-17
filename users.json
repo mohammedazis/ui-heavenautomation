@@ -1,0 +1,112 @@
+[
+	{
+		"NAME": "Aakash",
+		"NUMBER": "8825992753",
+		"type": "admin"
+	},
+	{
+		"NAME": "MD SIRd",
+		"NUMBER": "9677797765",
+		"type": "admin"
+	},
+	{
+		"NAME": "SANTHOSH",
+		"NUMBER": "7373730875",
+		"type": "admin"
+	},
+	{
+		"NAME": "SRIKANTH",
+		"NUMBER": "9786800816",
+		"type": "admin"
+	},
+	{
+		"NAME": "PRASANTH KARUR",
+		"NUMBER": "9965555885",
+		"type": "marketingPerson"
+	},
+	{
+		"NAME": "PRADEEP",
+		"NUMBER": "9994375873",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "SHAFI",
+		"NUMBER": "9677914777",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "NIZAR",
+		"NUMBER": "9786800859",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "GOBI",
+		"NUMBER": "9786800839",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "RABEEK",
+		"NUMBER": "9965555990",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "SIVAKUMAR",
+		"NUMBER": "9894735873",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "SURYA",
+		"NUMBER": "9787664881",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "PRASANTH",
+		"NUMBER": "9786800879",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "RAHUMAN",
+		"NUMBER": "9677225873",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "DIVAKAR",
+		"NUMBER": "8220732955",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "DASS ",
+		"NUMBER": "9787663881",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "JERIL",
+		"NUMBER": "9385877873",
+		"type": "servicePerson"
+	},
+	{
+		"NAME": "SARITHA",
+		"NUMBER": "9786800834",
+		"type": "admin"
+	},
+	{
+		"NAME": "HEMA",
+		"NUMBER": "7373730885",
+		"type": "admin"
+	},
+	{
+		"NAME": "KEERTHANA KARUR",
+		"NUMBER": "9994215873",
+		"type": "admin"
+	},
+	{
+		"NAME": "Suji",
+		"NUMBER": "7373734873",
+		"type": "admin"
+	},
+	{
+		"NAME": "Sathya",
+		"NUMBER": "7373735873",
+		"type": "admin"
+	}
+]
